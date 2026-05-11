@@ -1,6 +1,6 @@
 # 🎬 Cinephiler – Movie Review & Watchlist App
 
-![Cinephiler Banner](sandbox:/mnt/data/image.png)
+
 
 ## 📌 Overview
 
