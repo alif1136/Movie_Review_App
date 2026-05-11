@@ -161,7 +161,7 @@ lib/
 
 # 📸 Screenshot
 
-![App Screenshot](sandbox:/mnt/data/image.png)
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/9d321568-973c-4b10-90b4-16b5f4f2dbfe" />
 
 ---
 
